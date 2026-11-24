@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Diagnostics — Lab Report Portal",
+  "description": "Secure digital diagnostic laboratory report portal with role-based staff and patient dashboards, live sample tracking, structured result entry, PDF report generation, and verified patient report downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
